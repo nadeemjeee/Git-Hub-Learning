@@ -11,5 +11,15 @@ public class counting {
         int age = 45;
 
         System.out.println(name + " is " + age + " years old");
+
+        String nam2 = "Dawood";
+        String nam3 = "Moosa";
+        String nam4= "Hasnain";
+
+        System.out.println(nam2+" "+nam3 + " "+nam4);
+
+        
     }
 }
+
+
