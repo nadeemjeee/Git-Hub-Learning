@@ -16,10 +16,11 @@ public class counting {
         String nam3 = "Moosa";
         String nam4= "Hasnain";
 
-        System.out.println(nam2+" "+nam3 + " "+nam4);
+        System.out.println(nam2+" "+nam3 + " "+nam4); 
 
-        
+        String country = "Pakistan";
+
+        System.out.println(name +" " +age + " " +country);
     }
-}
 
-
+}    
