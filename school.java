@@ -11,7 +11,7 @@ public class school {
         String lName = "Ahamd";
 
         System.out.println(name + " "+ lName +" is "+age + " years old"+ " and going " + school + " from "+ city);
-
+        System.out.println(name + " "+ lName +" is "+age + " years old"+ " and going " + school + " from "+ city+ " Sweden") ;
 
     }
 }
