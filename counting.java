@@ -1,4 +1,7 @@
 public class counting {
+    public static int add(int a, int b){
+            return a+b;
+        }
     public static void main(String[] args) {
         int num1 = 5;
         int num2 = 20;
@@ -21,6 +24,9 @@ public class counting {
         String country = "Pakistan";
 
         System.out.println(name +" " +age + " " +country);
+
+        int result = add(9,5);
+        System.out.println(result);
     }
 
 }    
